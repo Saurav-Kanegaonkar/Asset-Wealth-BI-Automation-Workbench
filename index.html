@@ -3,52 +3,156 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Asset Wealth BI Automation Workbench</title>
+  <title>Asset and Wealth BI Automation Workbench</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#4f46e5;--bg:#f4f5ff">
-  <main class="shell">
-    <header class="hero">
+<body>
+  <main class="app-shell">
+    <header class="topbar">
       <div>
-        <p class="eyebrow">Workbench / asset and wealth management BI automation analytics</p>
-        <h1>Asset Wealth BI Automation Workbench</h1>
+        <p class="eyebrow">Asset and wealth operations BI</p>
+        <h1>Client Operations Reporting Control Tower</h1>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy finance operations workflow-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
-      </aside>
+      <div class="topbar__aside">
+        <span>Reporting cadence</span>
+        <strong>Daily production support, weekly operating review</strong>
+      </div>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>finance operations workflows</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
+
+    <section class="kpi-grid" id="kpis" aria-label="Portfolio summary"></section>
+
+    <nav class="tabs" aria-label="Workbench views">
+      <button class="tab is-active" type="button" data-view="cockpit">Executive Cockpit</button>
+      <button class="tab" type="button" data-view="triage">Issue Triage</button>
+      <button class="tab" type="button" data-view="automation">Automation Readiness</button>
+    </nav>
+
+    <section class="view is-active" id="cockpit" aria-labelledby="cockpit-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Surface 01</p>
+          <h2 id="cockpit-title">Operations and reporting health</h2>
+        </div>
+        <p>Connects workflow pressure, refresh reliability, data quality, and stakeholder demand into one operating queue.</p>
+      </div>
+      <div class="layout-two">
+        <article class="panel panel--large">
+          <div class="panel__heading">
+            <h3>Workflow priority queue</h3>
+            <span>Risk-ranked</span>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Workflow</th>
+                  <th>Line</th>
+                  <th>SLA</th>
+                  <th>Exceptions</th>
+                  <th>Risk</th>
+                  <th>Next action</th>
+                </tr>
+              </thead>
+              <tbody id="priority-table"></tbody>
+            </table>
+          </div>
+        </article>
+        <aside class="panel stack">
+          <div>
+            <div class="panel__heading">
+              <h3>Certified reporting assets</h3>
+              <span>Tableau-style catalog</span>
+            </div>
+            <div id="asset-list" class="asset-list"></div>
+          </div>
+          <div class="mini-chart" id="risk-chart"></div>
+        </aside>
+      </div>
     </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Semantic model</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>finance operations workflow</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>Source validation</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Self-service readiness</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
-      </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
-      </article>
+
+    <section class="view" id="triage" aria-labelledby="triage-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Surface 02</p>
+          <h2 id="triage-title">Production issue and data quality triage</h2>
+        </div>
+        <p>Shows how a BI analyst can diagnose refresh failures, source defects, metric gaps, and open production support work.</p>
+      </div>
+      <div class="layout-two">
+        <article class="panel panel--large">
+          <div class="panel__heading">
+            <h3>Incident queue</h3>
+            <span>Jira-style support</span>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Issue</th>
+                  <th>Severity</th>
+                  <th>Root cause</th>
+                  <th>Users</th>
+                  <th>Hours</th>
+                  <th>Score</th>
+                  <th>Action</th>
+                </tr>
+              </thead>
+              <tbody id="incident-table"></tbody>
+            </table>
+          </div>
+        </article>
+        <aside class="panel">
+          <div class="panel__heading">
+            <h3>Validation failures</h3>
+            <span>SQL control checks</span>
+          </div>
+          <div id="quality-list" class="quality-list"></div>
+        </aside>
+      </div>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value finance operations workflow segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="view" id="automation" aria-labelledby="automation-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Surface 03</p>
+          <h2 id="automation-title">Automation and semantic readiness</h2>
+        </div>
+        <p>Turns manual reporting effort, repeatability, readiness, and semantic definitions into a sprint-ready improvement backlog.</p>
+      </div>
+      <div class="layout-two">
+        <article class="panel panel--large">
+          <div class="panel__heading">
+            <h3>Automation candidates</h3>
+            <span>Value-ranked</span>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Candidate</th>
+                  <th>Workflow</th>
+                  <th>Hours</th>
+                  <th>Readiness</th>
+                  <th>Effort</th>
+                  <th>Value</th>
+                  <th>Recommendation</th>
+                </tr>
+              </thead>
+              <tbody id="automation-table"></tbody>
+            </table>
+          </div>
+        </article>
+        <aside class="panel">
+          <div class="panel__heading">
+            <h3>Metric catalog</h3>
+            <span>Definitions and owners</span>
+          </div>
+          <div id="metric-list" class="metric-list"></div>
+        </aside>
+      </div>
     </section>
   </main>
+  <script src="src/app.js"></script>
 </body>
 </html>

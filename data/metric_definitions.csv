@@ -1,0 +1,13 @@
+metric_id,metric_name,business_owner,tableau_measure,definition_status,source_table,grain
+MET-001,SLA attainment,Reporting Enablement,sla_attainment,Certified,quality_checks,daily workflow
+MET-002,Exception rate,Client Ops,exception_rate,Needs owner,quality_checks,incident
+MET-003,Aged item count,Controls,aged_item_count,Certified,daily_metrics,incident
+MET-004,Manual hours avoided,Client Ops,manual_hours_avoided,Certified,quality_checks,daily workflow
+MET-005,Refresh success rate,Reporting Enablement,refresh_success_rate,Certified,daily_metrics,incident
+MET-006,Data quality pass rate,Reporting Enablement,data_quality_pass_rate,Certified,quality_checks,report asset run
+MET-007,Production incident count,Technology,production_incident_count,Needs owner,incidents,incident
+MET-008,Open stakeholder requests,Client Ops,open_stakeholder_requests,Certified,automation_candidates,quality check
+MET-009,Client reporting package accuracy,Reporting Enablement,client_reporting_package_accuracy,Draft,quality_checks,report asset run
+MET-010,Rework rate,Client Ops,rework_rate,Certified,quality_checks,quality check
+MET-011,Workflow cycle time,Client Ops,workflow_cycle_time,Certified,incidents,quality check
+MET-012,Automation readiness score,Technology,automation_readiness_score,Certified,automation_candidates,report asset run

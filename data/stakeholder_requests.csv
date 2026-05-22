@@ -1,0 +1,105 @@
+request_id,jira_key,workflow_id,request_type,requestor_group,priority,age_days,status
+REQ-001,OPS-6201,AWM-003,Ad hoc pull,Risk controls,Medium,36,Backlog
+REQ-002,OPS-6202,AWM-023,Ad hoc pull,Technology,Medium,9,In progress
+REQ-003,OPS-6203,AWM-024,Definition question,Client service,Low,38,Backlog
+REQ-004,OPS-6204,AWM-019,Definition question,Operations leadership,Medium,17,Waiting on owner
+REQ-005,OPS-6205,AWM-037,Dashboard change,Operations leadership,Medium,37,In progress
+REQ-006,OPS-6206,AWM-007,New metric,Technology,Medium,31,Ready for release
+REQ-007,OPS-6207,AWM-034,Access request,Front office,Medium,25,Backlog
+REQ-008,OPS-6208,AWM-036,Ad hoc pull,Operations leadership,Medium,32,Backlog
+REQ-009,OPS-6209,AWM-017,New metric,Risk controls,Low,29,Waiting on owner
+REQ-010,OPS-6210,AWM-008,New metric,Technology,Medium,13,In progress
+REQ-011,OPS-6211,AWM-027,Dashboard change,Technology,Medium,3,In progress
+REQ-012,OPS-6212,AWM-022,Access request,Front office,Medium,22,In progress
+REQ-013,OPS-6213,AWM-022,Access request,Front office,Medium,26,Ready for release
+REQ-014,OPS-6214,AWM-014,Access request,Operations leadership,High,10,Backlog
+REQ-015,OPS-6215,AWM-008,Dashboard change,Technology,Medium,28,Backlog
+REQ-016,OPS-6216,AWM-023,Ad hoc pull,Risk controls,Medium,33,Waiting on owner
+REQ-017,OPS-6217,AWM-017,New metric,Front office,Medium,5,Ready for release
+REQ-018,OPS-6218,AWM-033,Dashboard change,Client service,Medium,27,In progress
+REQ-019,OPS-6219,AWM-035,Definition question,Operations leadership,Medium,15,Ready for release
+REQ-020,OPS-6220,AWM-008,New metric,Technology,Medium,1,In progress
+REQ-021,OPS-6221,AWM-013,Dashboard change,Front office,Medium,18,Ready for release
+REQ-022,OPS-6222,AWM-016,Dashboard change,Risk controls,Low,12,In progress
+REQ-023,OPS-6223,AWM-018,Dashboard change,Risk controls,Low,35,Backlog
+REQ-024,OPS-6224,AWM-007,Access request,Client service,Medium,25,Ready for release
+REQ-025,OPS-6225,AWM-005,Definition question,Technology,High,18,Ready for release
+REQ-026,OPS-6226,AWM-029,Access request,Operations leadership,Medium,8,Waiting on owner
+REQ-027,OPS-6227,AWM-040,Dashboard change,Front office,High,26,In progress
+REQ-028,OPS-6228,AWM-042,Access request,Front office,Low,8,Backlog
+REQ-029,OPS-6229,AWM-034,Definition question,Operations leadership,Medium,36,In progress
+REQ-030,OPS-6230,AWM-018,Ad hoc pull,Operations leadership,Low,28,Backlog
+REQ-031,OPS-6231,AWM-033,Dashboard change,Technology,Medium,35,Ready for release
+REQ-032,OPS-6232,AWM-019,Dashboard change,Technology,Medium,4,Waiting on owner
+REQ-033,OPS-6233,AWM-036,Ad hoc pull,Client service,Low,20,Waiting on owner
+REQ-034,OPS-6234,AWM-041,Ad hoc pull,Front office,High,32,Ready for release
+REQ-035,OPS-6235,AWM-030,Ad hoc pull,Risk controls,Medium,15,Ready for release
+REQ-036,OPS-6236,AWM-027,Definition question,Front office,High,22,In progress
+REQ-037,OPS-6237,AWM-038,Dashboard change,Technology,Low,13,In progress
+REQ-038,OPS-6238,AWM-032,Dashboard change,Client service,Low,26,Waiting on owner
+REQ-039,OPS-6239,AWM-004,Definition question,Operations leadership,Medium,20,Waiting on owner
+REQ-040,OPS-6240,AWM-019,Definition question,Front office,Low,10,Backlog
+REQ-041,OPS-6241,AWM-034,Ad hoc pull,Client service,Low,15,Waiting on owner
+REQ-042,OPS-6242,AWM-040,Definition question,Operations leadership,Medium,9,Backlog
+REQ-043,OPS-6243,AWM-021,Access request,Front office,Medium,17,Waiting on owner
+REQ-044,OPS-6244,AWM-034,Dashboard change,Front office,Low,6,In progress
+REQ-045,OPS-6245,AWM-001,Ad hoc pull,Client service,Medium,33,Ready for release
+REQ-046,OPS-6246,AWM-002,New metric,Operations leadership,Medium,25,In progress
+REQ-047,OPS-6247,AWM-019,Access request,Technology,High,5,In progress
+REQ-048,OPS-6248,AWM-010,Ad hoc pull,Risk controls,High,19,In progress
+REQ-049,OPS-6249,AWM-030,Access request,Client service,Low,10,Backlog
+REQ-050,OPS-6250,AWM-028,Access request,Technology,Medium,27,Ready for release
+REQ-051,OPS-6251,AWM-032,New metric,Client service,Medium,4,Ready for release
+REQ-052,OPS-6252,AWM-004,New metric,Operations leadership,Medium,24,Waiting on owner
+REQ-053,OPS-6253,AWM-031,Ad hoc pull,Client service,Low,34,In progress
+REQ-054,OPS-6254,AWM-022,Access request,Front office,Medium,14,Ready for release
+REQ-055,OPS-6255,AWM-006,New metric,Risk controls,Medium,5,Waiting on owner
+REQ-056,OPS-6256,AWM-042,Access request,Front office,High,5,Ready for release
+REQ-057,OPS-6257,AWM-035,New metric,Front office,Medium,22,Backlog
+REQ-058,OPS-6258,AWM-024,Definition question,Front office,Low,34,Ready for release
+REQ-059,OPS-6259,AWM-009,Dashboard change,Front office,High,34,Waiting on owner
+REQ-060,OPS-6260,AWM-004,Definition question,Risk controls,High,24,Ready for release
+REQ-061,OPS-6261,AWM-006,Ad hoc pull,Risk controls,Low,12,Backlog
+REQ-062,OPS-6262,AWM-001,New metric,Operations leadership,Medium,32,Backlog
+REQ-063,OPS-6263,AWM-037,Ad hoc pull,Operations leadership,Medium,22,Ready for release
+REQ-064,OPS-6264,AWM-034,Ad hoc pull,Front office,High,4,In progress
+REQ-065,OPS-6265,AWM-029,New metric,Front office,Low,5,Waiting on owner
+REQ-066,OPS-6266,AWM-028,Dashboard change,Front office,High,10,Ready for release
+REQ-067,OPS-6267,AWM-041,Ad hoc pull,Client service,High,33,In progress
+REQ-068,OPS-6268,AWM-029,Access request,Client service,Low,8,Waiting on owner
+REQ-069,OPS-6269,AWM-031,New metric,Operations leadership,Low,26,Backlog
+REQ-070,OPS-6270,AWM-024,Access request,Client service,Low,9,Ready for release
+REQ-071,OPS-6271,AWM-025,Definition question,Client service,Low,25,In progress
+REQ-072,OPS-6272,AWM-004,New metric,Client service,Medium,7,Waiting on owner
+REQ-073,OPS-6273,AWM-033,Access request,Risk controls,High,10,Ready for release
+REQ-074,OPS-6274,AWM-009,Definition question,Operations leadership,High,2,In progress
+REQ-075,OPS-6275,AWM-008,Definition question,Risk controls,Medium,35,Waiting on owner
+REQ-076,OPS-6276,AWM-013,Ad hoc pull,Front office,High,23,In progress
+REQ-077,OPS-6277,AWM-028,Dashboard change,Risk controls,Low,19,Ready for release
+REQ-078,OPS-6278,AWM-034,Definition question,Front office,Low,20,Waiting on owner
+REQ-079,OPS-6279,AWM-040,New metric,Front office,Medium,35,Backlog
+REQ-080,OPS-6280,AWM-014,Dashboard change,Front office,High,32,In progress
+REQ-081,OPS-6281,AWM-013,Dashboard change,Front office,Medium,15,In progress
+REQ-082,OPS-6282,AWM-030,Ad hoc pull,Technology,High,14,Ready for release
+REQ-083,OPS-6283,AWM-004,Ad hoc pull,Technology,Medium,19,Backlog
+REQ-084,OPS-6284,AWM-022,Ad hoc pull,Risk controls,Medium,13,In progress
+REQ-085,OPS-6285,AWM-019,New metric,Client service,Medium,3,Ready for release
+REQ-086,OPS-6286,AWM-003,Dashboard change,Technology,Medium,8,Waiting on owner
+REQ-087,OPS-6287,AWM-007,New metric,Risk controls,Low,31,Ready for release
+REQ-088,OPS-6288,AWM-033,Definition question,Risk controls,Medium,23,In progress
+REQ-089,OPS-6289,AWM-025,New metric,Operations leadership,Medium,21,Waiting on owner
+REQ-090,OPS-6290,AWM-022,Access request,Front office,Medium,32,Waiting on owner
+REQ-091,OPS-6291,AWM-015,Access request,Client service,Medium,11,Ready for release
+REQ-092,OPS-6292,AWM-037,Ad hoc pull,Client service,Medium,17,Waiting on owner
+REQ-093,OPS-6293,AWM-018,Definition question,Risk controls,Medium,8,In progress
+REQ-094,OPS-6294,AWM-011,Access request,Front office,Medium,5,Waiting on owner
+REQ-095,OPS-6295,AWM-042,Dashboard change,Risk controls,Medium,3,Backlog
+REQ-096,OPS-6296,AWM-038,New metric,Client service,Low,33,Waiting on owner
+REQ-097,OPS-6297,AWM-016,Ad hoc pull,Operations leadership,High,32,Backlog
+REQ-098,OPS-6298,AWM-033,Definition question,Technology,High,31,Backlog
+REQ-099,OPS-6299,AWM-028,Ad hoc pull,Operations leadership,High,32,Waiting on owner
+REQ-100,OPS-6300,AWM-036,Definition question,Risk controls,Low,36,In progress
+REQ-101,OPS-6301,AWM-028,Dashboard change,Risk controls,Medium,9,Waiting on owner
+REQ-102,OPS-6302,AWM-026,New metric,Operations leadership,Medium,37,In progress
+REQ-103,OPS-6303,AWM-008,Definition question,Operations leadership,Medium,20,Ready for release
+REQ-104,OPS-6304,AWM-039,Ad hoc pull,Operations leadership,Medium,21,Backlog

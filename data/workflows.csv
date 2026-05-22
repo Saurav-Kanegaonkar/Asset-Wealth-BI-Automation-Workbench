@@ -1,0 +1,43 @@
+workflow_id,workflow,business_line,region,platform,owner,criticality,complexity_index,automation_fit,source_count,tableau_asset
+AWM-001,Investment guideline setup,Private Wealth,APAC,Document Vault,Client Ops,High,0.54,0.77,8,Private Investment Control Board
+AWM-002,Cash movement approval,Private Wealth,Americas,Account Master,Reporting Enablement,High,0.54,0.69,7,Private Cash Control Board
+AWM-003,Cash movement approval,Institutional Asset Management,EMEA,Account Master,Controls,Medium,0.84,0.35,9,Institutional Cash Control Board
+AWM-004,Model portfolio rebalance approval,Alternatives Operations,Americas,Onboarding Hub,Data Analytics,High,0.82,0.41,6,Alternatives Model Control Board
+AWM-005,Managed account restriction update,Client Reporting,EMEA,Onboarding Hub,Reporting Enablement,Medium,0.8,0.66,6,Client Managed Control Board
+AWM-006,Tax document exception review,Client Reporting,EMEA,Portfolio Data Mart,Client Ops,Medium,0.79,0.38,4,Client Tax Control Board
+AWM-007,Alternatives subscription packet,Private Wealth,EMEA,Portfolio Data Mart,Technology,High,0.75,0.56,5,Private Alternatives Control Board
+AWM-008,Quarterly statement preparation,Private Wealth,APAC,Reporting Lake,Data Analytics,Medium,0.7,0.49,6,Private Quarterly Control Board
+AWM-009,Alternatives subscription packet,Alternatives Operations,Americas,Onboarding Hub,Technology,High,0.44,0.53,5,Alternatives Alternatives Control Board
+AWM-010,Model portfolio rebalance approval,Institutional Asset Management,APAC,Portfolio Data Mart,Technology,Medium,0.88,0.72,4,Institutional Model Control Board
+AWM-011,Alternatives subscription packet,Client Reporting,APAC,Portfolio Data Mart,Technology,High,0.72,0.86,6,Client Alternatives Control Board
+AWM-012,Advisor book transition,Client Reporting,EMEA,Account Master,Controls,High,0.44,0.41,8,Client Advisor Control Board
+AWM-013,Fee schedule configuration,Managed Accounts,EMEA,Onboarding Hub,Client Ops,Medium,0.66,0.49,7,Managed Fee Control Board
+AWM-014,Quarterly statement preparation,Alternatives Operations,Americas,Portfolio Data Mart,Reporting Enablement,High,0.5,0.35,8,Alternatives Quarterly Control Board
+AWM-015,Portfolio reporting entitlement,Client Reporting,Americas,Account Master,Technology,Watch,0.58,0.71,7,Client Portfolio Control Board
+AWM-016,Managed account restriction update,Institutional Asset Management,APAC,Portfolio Data Mart,Controls,Watch,0.9,0.87,7,Institutional Managed Control Board
+AWM-017,New account onboarding,Private Wealth,EMEA,Account Master,Reporting Enablement,Watch,0.85,0.53,3,Private New Control Board
+AWM-018,Fee schedule configuration,Private Wealth,APAC,Account Master,Technology,Medium,0.46,0.78,9,Private Fee Control Board
+AWM-019,Mandate closure checklist,Client Reporting,Americas,Document Vault,Technology,High,0.87,0.59,4,Client Mandate Control Board
+AWM-020,Tax document exception review,Managed Accounts,APAC,Account Master,Technology,Medium,0.65,0.65,3,Managed Tax Control Board
+AWM-021,Fee schedule configuration,Alternatives Operations,Americas,Onboarding Hub,Technology,Medium,0.54,0.48,3,Alternatives Fee Control Board
+AWM-022,Fee schedule configuration,Private Wealth,EMEA,Document Vault,Technology,High,0.54,0.73,4,Private Fee Control Board
+AWM-023,Mandate closure checklist,Institutional Asset Management,EMEA,Portfolio Data Mart,Controls,Medium,0.52,0.41,6,Institutional Mandate Control Board
+AWM-024,Cash movement approval,Managed Accounts,APAC,Reporting Lake,Data Analytics,High,0.76,0.72,3,Managed Cash Control Board
+AWM-025,Investment guideline setup,Institutional Asset Management,Americas,Reporting Lake,Technology,High,0.65,0.59,5,Institutional Investment Control Board
+AWM-026,Fee schedule configuration,Managed Accounts,APAC,Onboarding Hub,Technology,High,0.76,0.66,3,Managed Fee Control Board
+AWM-027,Portfolio reporting entitlement,Managed Accounts,EMEA,Reporting Lake,Client Ops,Medium,0.87,0.86,4,Managed Portfolio Control Board
+AWM-028,Performance return restatement,Alternatives Operations,EMEA,Document Vault,Controls,High,0.78,0.77,9,Alternatives Performance Control Board
+AWM-029,Advisor book transition,Institutional Asset Management,EMEA,Portfolio Data Mart,Client Ops,High,0.45,0.77,3,Institutional Advisor Control Board
+AWM-030,Client reference data update,Client Reporting,EMEA,Onboarding Hub,Technology,Medium,0.86,0.44,7,Client Client Control Board
+AWM-031,Fee schedule configuration,Client Reporting,Americas,Account Master,Reporting Enablement,Medium,0.54,0.42,7,Client Fee Control Board
+AWM-032,Client reference data update,Client Reporting,Americas,Account Master,Data Analytics,Medium,0.72,0.65,5,Client Client Control Board
+AWM-033,Alternatives subscription packet,Alternatives Operations,EMEA,Onboarding Hub,Client Ops,High,0.76,0.61,9,Alternatives Alternatives Control Board
+AWM-034,Client reporting package QA,Client Reporting,APAC,Account Master,Data Analytics,Watch,0.46,0.47,5,Client Client Control Board
+AWM-035,Fee schedule configuration,Institutional Asset Management,EMEA,Document Vault,Reporting Enablement,High,0.65,0.66,5,Institutional Fee Control Board
+AWM-036,New account onboarding,Client Reporting,EMEA,Onboarding Hub,Client Ops,Watch,0.47,0.85,5,Client New Control Board
+AWM-037,Advisor book transition,Alternatives Operations,EMEA,Portfolio Data Mart,Reporting Enablement,Medium,0.79,0.47,8,Alternatives Advisor Control Board
+AWM-038,Mandate closure checklist,Alternatives Operations,Americas,Portfolio Data Mart,Technology,High,0.64,0.51,3,Alternatives Mandate Control Board
+AWM-039,Quarterly statement preparation,Institutional Asset Management,APAC,Onboarding Hub,Technology,Medium,0.79,0.67,3,Institutional Quarterly Control Board
+AWM-040,Client reference data update,Alternatives Operations,APAC,Onboarding Hub,Data Analytics,Medium,0.64,0.37,5,Alternatives Client Control Board
+AWM-041,Custody account mapping,Institutional Asset Management,APAC,Document Vault,Technology,High,0.83,0.85,6,Institutional Custody Control Board
+AWM-042,Alternatives subscription packet,Institutional Asset Management,Americas,Reporting Lake,Technology,Watch,0.43,0.77,5,Institutional Alternatives Control Board

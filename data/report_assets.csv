@@ -1,0 +1,23 @@
+asset_id,dashboard_name,primary_workflow_id,audience,owner,refresh_frequency,certification_status,business_criticality,avg_monthly_views,semantic_coverage_pct,open_requests
+RPT-001,Client Reporting Alternatives subscription packet Dashboard,AWM-011,Risk controls,Reporting Enablement,Hourly,Promoted,High,997,71,3
+RPT-002,Institutional Asset Management Custody account mapping Dashboard,AWM-041,Operations leadership,Technology,Twice daily,Draft,High,2475,57,2
+RPT-003,Alternatives Operations Fee schedule configuration Dashboard,AWM-021,Client service,Client Ops,Weekly,Draft,Medium,1286,84,6
+RPT-004,Alternatives Operations Model portfolio rebalance approval Dashboard,AWM-004,Technology,Client Ops,Twice daily,Certified,High,782,71,1
+RPT-005,Client Reporting Mandate closure checklist Dashboard,AWM-019,Risk controls,Data Analytics,Weekly,Certified,High,814,81,1
+RPT-006,Managed Accounts Fee schedule configuration Dashboard,AWM-026,Risk controls,Data Analytics,Daily,Certified,High,289,55,7
+RPT-007,Client Reporting Alternatives subscription packet Dashboard,AWM-011,Risk controls,Controls,Hourly,Certified,High,1642,67,1
+RPT-008,Alternatives Operations Quarterly statement preparation Dashboard,AWM-014,Risk controls,Reporting Enablement,Daily,Promoted,High,2073,72,7
+RPT-009,Institutional Asset Management Investment guideline setup Dashboard,AWM-025,Front office,Technology,Weekly,Promoted,High,2114,84,2
+RPT-010,Managed Accounts Tax document exception review Dashboard,AWM-020,Client service,Data Analytics,Daily,Draft,Medium,2157,86,4
+RPT-011,Client Reporting Managed account restriction update Dashboard,AWM-005,Front office,Controls,Weekly,Certified,Medium,614,62,8
+RPT-012,Institutional Asset Management Model portfolio rebalance approval Dashboard,AWM-010,Operations leadership,Technology,Twice daily,Promoted,Medium,2568,93,8
+RPT-013,Client Reporting Client reference data update Dashboard,AWM-030,Front office,Reporting Enablement,Twice daily,Promoted,Medium,2248,58,9
+RPT-014,Managed Accounts Tax document exception review Dashboard,AWM-020,Operations leadership,Controls,Hourly,Draft,Medium,907,83,5
+RPT-015,Managed Accounts Fee schedule configuration Dashboard,AWM-026,Operations leadership,Data Analytics,Hourly,Needs owner,High,2469,81,7
+RPT-016,Managed Accounts Fee schedule configuration Dashboard,AWM-013,Front office,Controls,Twice daily,Certified,Medium,2312,58,0
+RPT-017,Institutional Asset Management Investment guideline setup Dashboard,AWM-025,Technology,Controls,Hourly,Draft,High,1765,76,6
+RPT-018,Alternatives Operations Client reference data update Dashboard,AWM-040,Front office,Controls,Twice daily,Certified,Medium,464,65,0
+RPT-019,Private Wealth Fee schedule configuration Dashboard,AWM-022,Technology,Technology,Hourly,Certified,High,2160,86,6
+RPT-020,Managed Accounts Tax document exception review Dashboard,AWM-020,Risk controls,Client Ops,Hourly,Promoted,Medium,1901,91,6
+RPT-021,Alternatives Operations Alternatives subscription packet Dashboard,AWM-009,Client service,Technology,Daily,Needs owner,High,1737,62,7
+RPT-022,Private Wealth Cash movement approval Dashboard,AWM-002,Client service,Reporting Enablement,Hourly,Promoted,High,1033,84,8

@@ -1,15 +1,13 @@
 # Executive Findings
 
-## What I analyzed
+The synthetic operating model surfaces three practical BI priorities for an asset and wealth operations reporting team.
 
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for asset and wealth management BI automation analytics.
+1. The highest-risk workflow is Fee schedule configuration, where SLA pressure, exceptions, quality checks, and stakeholder demand overlap.
+2. Refresh reliability is 96.3%, which is strong overall but still leaves production issue risk around critical Tableau assets and upstream source latency.
+3. The top eight automation candidates represent 1050.2 weekly manual hours that could be reduced after data readiness checks are completed.
 
-## Findings
+Recommended operating cadence:
 
-- The highest-priority finance operations workflow is FIN009 with a priority score of 93.53.
-- The top queue combines 51.3 average risk with 79.6 quality score and $773,308 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
-
-## Recommendation
-
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which finance operations workflow risks need action, validation, or monitoring.
+- Use the priority queue before weekly operations reviews to focus analyst time.
+- Use the issue triage view daily when refresh failures, metric definition gaps, or data defects appear.
+- Use the automation queue during sprint planning so manual reporting work is converted into Jira-sized improvements.

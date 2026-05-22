@@ -1,0 +1,127 @@
+check_id,workflow_id,check_type,check_description,pass_rate,affected_rows,severity,owner
+DQ-001,AWM-001,Definition,metric owner and glossary link,0.9467,11,Medium,Client Ops
+DQ-002,AWM-001,Timeliness,latest extract freshness,0.9622,0,Low,Reporting Enablement
+DQ-003,AWM-001,Completeness,required field null rate,0.8944,84,Medium,Reporting Enablement
+DQ-004,AWM-002,Definition,metric owner and glossary link,0.9297,95,Medium,Reporting Enablement
+DQ-005,AWM-002,Timeliness,latest extract freshness,0.9047,173,Medium,Controls
+DQ-006,AWM-002,Reconciliation,source to report total variance,0.9163,6,Medium,Reporting Enablement
+DQ-007,AWM-003,Definition,metric owner and glossary link,0.9582,0,Low,Technology
+DQ-008,AWM-003,Reconciliation,source to report total variance,0.877,246,High,Controls
+DQ-009,AWM-003,Uniqueness,duplicate business key rate,0.8782,102,High,Reporting Enablement
+DQ-010,AWM-004,Uniqueness,duplicate business key rate,0.8475,198,High,Reporting Enablement
+DQ-011,AWM-004,Reconciliation,source to report total variance,0.8936,133,Medium,Technology
+DQ-012,AWM-004,Completeness,required field null rate,0.8516,170,High,Client Ops
+DQ-013,AWM-005,Reconciliation,source to report total variance,0.9108,215,High,Technology
+DQ-014,AWM-005,Uniqueness,duplicate business key rate,0.9431,111,Medium,Technology
+DQ-015,AWM-005,Completeness,required field null rate,0.9072,0,Medium,Data Analytics
+DQ-016,AWM-006,Uniqueness,duplicate business key rate,0.9702,0,Low,Controls
+DQ-017,AWM-006,Definition,metric owner and glossary link,0.911,63,Medium,Technology
+DQ-018,AWM-006,Reconciliation,source to report total variance,0.9469,165,Medium,Data Analytics
+DQ-019,AWM-007,Completeness,required field null rate,0.8994,54,Medium,Reporting Enablement
+DQ-020,AWM-007,Timeliness,latest extract freshness,0.9604,0,Low,Data Analytics
+DQ-021,AWM-007,Reconciliation,source to report total variance,0.88,155,High,Client Ops
+DQ-022,AWM-008,Timeliness,latest extract freshness,0.9035,132,Medium,Client Ops
+DQ-023,AWM-008,Definition,metric owner and glossary link,0.9956,203,High,Technology
+DQ-024,AWM-008,Reconciliation,source to report total variance,0.9326,237,High,Technology
+DQ-025,AWM-009,Uniqueness,duplicate business key rate,0.9789,0,Low,Data Analytics
+DQ-026,AWM-009,Completeness,required field null rate,0.9512,157,Low,Reporting Enablement
+DQ-027,AWM-009,Reconciliation,source to report total variance,0.953,77,Low,Controls
+DQ-028,AWM-010,Reconciliation,source to report total variance,0.936,173,Medium,Data Analytics
+DQ-029,AWM-010,Timeliness,latest extract freshness,0.9396,0,Medium,Reporting Enablement
+DQ-030,AWM-010,Uniqueness,duplicate business key rate,0.8686,254,High,Data Analytics
+DQ-031,AWM-011,Uniqueness,duplicate business key rate,0.9112,44,Medium,Controls
+DQ-032,AWM-011,Reconciliation,source to report total variance,0.8924,324,High,Technology
+DQ-033,AWM-011,Timeliness,latest extract freshness,0.927,89,Medium,Technology
+DQ-034,AWM-012,Completeness,required field null rate,0.9184,0,Medium,Client Ops
+DQ-035,AWM-012,Timeliness,latest extract freshness,0.9362,90,Medium,Technology
+DQ-036,AWM-012,Uniqueness,duplicate business key rate,0.9598,132,Low,Client Ops
+DQ-037,AWM-013,Reconciliation,source to report total variance,0.9688,0,Low,Technology
+DQ-038,AWM-013,Definition,metric owner and glossary link,0.9359,0,Medium,Technology
+DQ-039,AWM-013,Timeliness,latest extract freshness,0.862,218,High,Client Ops
+DQ-040,AWM-014,Completeness,required field null rate,0.9185,215,High,Controls
+DQ-041,AWM-014,Uniqueness,duplicate business key rate,0.9142,416,High,Reporting Enablement
+DQ-042,AWM-014,Timeliness,latest extract freshness,0.9522,0,Low,Data Analytics
+DQ-043,AWM-015,Timeliness,latest extract freshness,0.8907,184,Medium,Technology
+DQ-044,AWM-015,Definition,metric owner and glossary link,0.9421,0,Medium,Client Ops
+DQ-045,AWM-015,Completeness,required field null rate,0.9789,58,Low,Reporting Enablement
+DQ-046,AWM-016,Reconciliation,source to report total variance,0.9064,270,High,Reporting Enablement
+DQ-047,AWM-016,Definition,metric owner and glossary link,0.9191,121,Medium,Controls
+DQ-048,AWM-016,Uniqueness,duplicate business key rate,0.9128,112,Medium,Data Analytics
+DQ-049,AWM-017,Timeliness,latest extract freshness,0.9075,230,High,Controls
+DQ-050,AWM-017,Uniqueness,duplicate business key rate,0.9135,267,High,Controls
+DQ-051,AWM-017,Completeness,required field null rate,0.913,151,Medium,Client Ops
+DQ-052,AWM-018,Completeness,required field null rate,0.9442,108,Medium,Technology
+DQ-053,AWM-018,Reconciliation,source to report total variance,0.9354,0,Medium,Client Ops
+DQ-054,AWM-018,Definition,metric owner and glossary link,0.9514,83,Low,Technology
+DQ-055,AWM-019,Reconciliation,source to report total variance,0.9717,9,Low,Technology
+DQ-056,AWM-019,Definition,metric owner and glossary link,0.8728,114,High,Technology
+DQ-057,AWM-019,Timeliness,latest extract freshness,0.9498,17,Medium,Reporting Enablement
+DQ-058,AWM-020,Completeness,required field null rate,0.8983,134,Medium,Technology
+DQ-059,AWM-020,Timeliness,latest extract freshness,0.9591,155,Low,Reporting Enablement
+DQ-060,AWM-020,Definition,metric owner and glossary link,0.9798,110,Low,Client Ops
+DQ-061,AWM-021,Completeness,required field null rate,0.8984,0,Medium,Client Ops
+DQ-062,AWM-021,Timeliness,latest extract freshness,0.915,196,High,Data Analytics
+DQ-063,AWM-021,Definition,metric owner and glossary link,0.9889,14,Low,Reporting Enablement
+DQ-064,AWM-022,Completeness,required field null rate,0.9624,0,Low,Client Ops
+DQ-065,AWM-022,Timeliness,latest extract freshness,0.9217,0,Medium,Data Analytics
+DQ-066,AWM-022,Uniqueness,duplicate business key rate,0.9261,56,Medium,Reporting Enablement
+DQ-067,AWM-023,Uniqueness,duplicate business key rate,0.9278,103,Medium,Client Ops
+DQ-068,AWM-023,Completeness,required field null rate,0.8947,67,Medium,Client Ops
+DQ-069,AWM-023,Reconciliation,source to report total variance,0.9534,103,Low,Technology
+DQ-070,AWM-024,Completeness,required field null rate,0.9104,125,Medium,Data Analytics
+DQ-071,AWM-024,Uniqueness,duplicate business key rate,0.9763,153,Low,Data Analytics
+DQ-072,AWM-024,Timeliness,latest extract freshness,0.8886,0,High,Reporting Enablement
+DQ-073,AWM-025,Definition,metric owner and glossary link,0.8869,216,High,Controls
+DQ-074,AWM-025,Reconciliation,source to report total variance,0.9704,2,Low,Client Ops
+DQ-075,AWM-025,Completeness,required field null rate,0.8959,49,Medium,Technology
+DQ-076,AWM-026,Reconciliation,source to report total variance,0.8922,173,Medium,Reporting Enablement
+DQ-077,AWM-026,Uniqueness,duplicate business key rate,0.9635,27,Low,Technology
+DQ-078,AWM-026,Completeness,required field null rate,0.8883,231,High,Technology
+DQ-079,AWM-027,Completeness,required field null rate,0.8853,253,High,Controls
+DQ-080,AWM-027,Timeliness,latest extract freshness,0.9037,99,Medium,Controls
+DQ-081,AWM-027,Reconciliation,source to report total variance,0.8565,242,High,Technology
+DQ-082,AWM-028,Uniqueness,duplicate business key rate,0.9151,73,Medium,Client Ops
+DQ-083,AWM-028,Timeliness,latest extract freshness,0.8948,227,High,Technology
+DQ-084,AWM-028,Reconciliation,source to report total variance,0.9098,168,Medium,Technology
+DQ-085,AWM-029,Timeliness,latest extract freshness,0.9167,122,Medium,Controls
+DQ-086,AWM-029,Uniqueness,duplicate business key rate,0.877,100,High,Reporting Enablement
+DQ-087,AWM-029,Completeness,required field null rate,0.8973,151,Medium,Controls
+DQ-088,AWM-030,Completeness,required field null rate,0.8958,0,Medium,Technology
+DQ-089,AWM-030,Reconciliation,source to report total variance,0.9221,58,Medium,Data Analytics
+DQ-090,AWM-030,Definition,metric owner and glossary link,0.9086,184,Medium,Technology
+DQ-091,AWM-031,Uniqueness,duplicate business key rate,0.9692,0,Low,Reporting Enablement
+DQ-092,AWM-031,Completeness,required field null rate,0.9167,46,Medium,Client Ops
+DQ-093,AWM-031,Reconciliation,source to report total variance,0.9785,117,Low,Technology
+DQ-094,AWM-032,Reconciliation,source to report total variance,0.9212,144,Medium,Client Ops
+DQ-095,AWM-032,Timeliness,latest extract freshness,0.9002,168,Medium,Reporting Enablement
+DQ-096,AWM-032,Uniqueness,duplicate business key rate,0.8741,127,High,Reporting Enablement
+DQ-097,AWM-033,Completeness,required field null rate,0.9491,54,Medium,Controls
+DQ-098,AWM-033,Timeliness,latest extract freshness,0.9027,265,High,Client Ops
+DQ-099,AWM-033,Reconciliation,source to report total variance,0.9301,51,Medium,Client Ops
+DQ-100,AWM-034,Reconciliation,source to report total variance,0.909,112,Medium,Technology
+DQ-101,AWM-034,Uniqueness,duplicate business key rate,0.9502,272,High,Data Analytics
+DQ-102,AWM-034,Timeliness,latest extract freshness,0.9429,179,Medium,Technology
+DQ-103,AWM-035,Completeness,required field null rate,0.8957,75,Medium,Technology
+DQ-104,AWM-035,Reconciliation,source to report total variance,0.9288,118,Medium,Technology
+DQ-105,AWM-035,Uniqueness,duplicate business key rate,0.9907,0,Low,Reporting Enablement
+DQ-106,AWM-036,Timeliness,latest extract freshness,0.9159,42,Medium,Data Analytics
+DQ-107,AWM-036,Reconciliation,source to report total variance,0.9328,79,Medium,Technology
+DQ-108,AWM-036,Completeness,required field null rate,0.9356,111,Medium,Reporting Enablement
+DQ-109,AWM-037,Timeliness,latest extract freshness,0.9127,0,Medium,Client Ops
+DQ-110,AWM-037,Uniqueness,duplicate business key rate,0.8874,98,High,Data Analytics
+DQ-111,AWM-037,Reconciliation,source to report total variance,0.9011,0,Medium,Data Analytics
+DQ-112,AWM-038,Completeness,required field null rate,0.9284,0,Medium,Data Analytics
+DQ-113,AWM-038,Timeliness,latest extract freshness,0.9603,0,Low,Reporting Enablement
+DQ-114,AWM-038,Reconciliation,source to report total variance,0.9204,0,Medium,Client Ops
+DQ-115,AWM-039,Definition,metric owner and glossary link,0.9077,181,Medium,Reporting Enablement
+DQ-116,AWM-039,Timeliness,latest extract freshness,0.9644,120,Low,Technology
+DQ-117,AWM-039,Reconciliation,source to report total variance,0.9316,105,Medium,Controls
+DQ-118,AWM-040,Definition,metric owner and glossary link,0.9199,169,Medium,Technology
+DQ-119,AWM-040,Timeliness,latest extract freshness,0.9423,168,Medium,Technology
+DQ-120,AWM-040,Uniqueness,duplicate business key rate,0.8971,55,Medium,Reporting Enablement
+DQ-121,AWM-041,Uniqueness,duplicate business key rate,0.8407,289,High,Reporting Enablement
+DQ-122,AWM-041,Timeliness,latest extract freshness,0.9314,11,Medium,Technology
+DQ-123,AWM-041,Completeness,required field null rate,0.9422,76,Medium,Data Analytics
+DQ-124,AWM-042,Timeliness,latest extract freshness,0.999,0,Low,Controls
+DQ-125,AWM-042,Completeness,required field null rate,0.8914,116,Medium,Data Analytics
+DQ-126,AWM-042,Definition,metric owner and glossary link,0.9695,76,Low,Reporting Enablement

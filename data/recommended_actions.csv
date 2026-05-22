@@ -1,221 +1,41 @@
-action_id,entity_id,action_type,effort_hours,expected_lift_pct,status
-ACT0001,FIN014,document,26,23.4,Proposed
-ACT0002,FIN004,document,29,8.7,Proposed
-ACT0003,FIN011,document,29,18.4,Complete
-ACT0004,FIN027,monitor,22,2.9,Proposed
-ACT0005,FIN025,validate,11,11.7,Ready
-ACT0006,FIN034,automate,15,20.5,Proposed
-ACT0007,FIN023,prioritize,8,21.6,Complete
-ACT0008,FIN003,document,5,20.1,Complete
-ACT0009,FIN002,prioritize,35,4.7,Ready
-ACT0010,FIN005,document,26,5.1,Ready
-ACT0011,FIN026,automate,39,20.9,Proposed
-ACT0012,FIN016,monitor,15,18.9,Proposed
-ACT0013,FIN018,prioritize,31,2.1,Proposed
-ACT0014,FIN027,monitor,23,20.3,In Review
-ACT0015,FIN030,document,17,20.9,Ready
-ACT0016,FIN016,monitor,44,18.8,Ready
-ACT0017,FIN028,validate,27,11.3,Ready
-ACT0018,FIN013,escalate,17,11.0,Complete
-ACT0019,FIN022,validate,17,9.3,In Review
-ACT0020,FIN022,validate,8,18.7,Ready
-ACT0021,FIN007,escalate,14,22.4,Ready
-ACT0022,FIN023,validate,17,17.4,Complete
-ACT0023,FIN005,validate,41,19.7,Complete
-ACT0024,FIN015,automate,5,18.3,Proposed
-ACT0025,FIN031,prioritize,14,17.4,Proposed
-ACT0026,FIN010,monitor,15,13.6,Ready
-ACT0027,FIN021,document,24,14.0,Proposed
-ACT0028,FIN012,validate,14,20.2,Proposed
-ACT0029,FIN012,escalate,42,14.3,Ready
-ACT0030,FIN004,automate,35,20.3,In Review
-ACT0031,FIN026,automate,41,18.3,Complete
-ACT0032,FIN017,document,17,2.8,Ready
-ACT0033,FIN019,validate,10,23.3,Complete
-ACT0034,FIN012,validate,8,20.8,In Review
-ACT0035,FIN010,automate,25,4.4,Ready
-ACT0036,FIN033,automate,37,6.7,Proposed
-ACT0037,FIN021,escalate,20,12.9,Ready
-ACT0038,FIN015,validate,19,3.4,Ready
-ACT0039,FIN009,document,12,5.6,Proposed
-ACT0040,FIN008,document,36,5.2,Complete
-ACT0041,FIN005,monitor,42,17.4,Ready
-ACT0042,FIN019,validate,4,20.7,In Review
-ACT0043,FIN011,validate,35,15.5,In Review
-ACT0044,FIN017,automate,26,21.3,Ready
-ACT0045,FIN014,validate,9,10.3,Complete
-ACT0046,FIN018,document,36,8.4,Proposed
-ACT0047,FIN036,monitor,36,13.8,Proposed
-ACT0048,FIN031,monitor,29,18.3,Complete
-ACT0049,FIN012,automate,19,15.8,Complete
-ACT0050,FIN021,prioritize,24,13.2,In Review
-ACT0051,FIN020,prioritize,22,10.3,Complete
-ACT0052,FIN031,escalate,42,15.8,Proposed
-ACT0053,FIN025,document,40,7.0,In Review
-ACT0054,FIN018,prioritize,16,8.7,Complete
-ACT0055,FIN011,monitor,20,20.6,In Review
-ACT0056,FIN008,document,16,12.1,Ready
-ACT0057,FIN002,prioritize,24,5.5,Complete
-ACT0058,FIN034,prioritize,29,6.1,Complete
-ACT0059,FIN027,validate,39,8.7,Complete
-ACT0060,FIN014,document,42,2.3,Proposed
-ACT0061,FIN002,prioritize,8,10.9,Complete
-ACT0062,FIN025,document,14,2.1,Complete
-ACT0063,FIN018,document,29,6.9,Complete
-ACT0064,FIN015,prioritize,2,11.6,Proposed
-ACT0065,FIN013,automate,38,8.5,Proposed
-ACT0066,FIN026,validate,38,17.0,Ready
-ACT0067,FIN015,prioritize,29,18.9,In Review
-ACT0068,FIN034,validate,14,4.3,In Review
-ACT0069,FIN004,validate,17,2.7,In Review
-ACT0070,FIN010,monitor,41,21.7,Ready
-ACT0071,FIN025,escalate,5,15.7,Proposed
-ACT0072,FIN004,escalate,35,18.6,Complete
-ACT0073,FIN032,monitor,6,5.4,Complete
-ACT0074,FIN003,prioritize,21,15.7,Ready
-ACT0075,FIN005,escalate,20,14.9,In Review
-ACT0076,FIN024,escalate,20,23.9,Ready
-ACT0077,FIN013,monitor,10,3.8,In Review
-ACT0078,FIN013,automate,43,21.7,Complete
-ACT0079,FIN016,monitor,40,14.6,In Review
-ACT0080,FIN006,prioritize,9,15.2,Complete
-ACT0081,FIN015,monitor,12,3.0,In Review
-ACT0082,FIN008,escalate,23,6.9,Complete
-ACT0083,FIN005,escalate,42,2.9,Ready
-ACT0084,FIN012,document,34,6.4,In Review
-ACT0085,FIN006,automate,13,23.1,Complete
-ACT0086,FIN035,validate,18,12.6,Ready
-ACT0087,FIN009,monitor,42,23.6,Complete
-ACT0088,FIN036,validate,19,8.9,In Review
-ACT0089,FIN036,document,30,4.2,Proposed
-ACT0090,FIN028,escalate,22,8.4,In Review
-ACT0091,FIN033,validate,17,23.3,Proposed
-ACT0092,FIN003,validate,44,19.7,In Review
-ACT0093,FIN006,automate,40,16.4,Complete
-ACT0094,FIN002,prioritize,8,4.3,In Review
-ACT0095,FIN029,document,34,23.7,Complete
-ACT0096,FIN018,document,10,6.3,Complete
-ACT0097,FIN001,document,2,12.2,Proposed
-ACT0098,FIN005,validate,13,14.7,Complete
-ACT0099,FIN028,monitor,32,22.0,Ready
-ACT0100,FIN036,validate,13,12.2,In Review
-ACT0101,FIN035,prioritize,29,13.2,Ready
-ACT0102,FIN024,validate,17,22.9,Complete
-ACT0103,FIN036,prioritize,10,22.4,Proposed
-ACT0104,FIN018,automate,7,5.9,Ready
-ACT0105,FIN036,prioritize,34,3.5,In Review
-ACT0106,FIN031,automate,38,11.9,In Review
-ACT0107,FIN001,validate,6,9.0,Ready
-ACT0108,FIN036,document,27,6.4,Ready
-ACT0109,FIN006,validate,25,12.4,Proposed
-ACT0110,FIN001,escalate,37,2.3,Complete
-ACT0111,FIN035,prioritize,13,8.4,Ready
-ACT0112,FIN024,escalate,19,7.4,Ready
-ACT0113,FIN014,monitor,37,22.7,In Review
-ACT0114,FIN004,monitor,29,20.4,In Review
-ACT0115,FIN033,escalate,32,20.4,In Review
-ACT0116,FIN011,monitor,19,2.3,In Review
-ACT0117,FIN021,validate,20,23.2,Proposed
-ACT0118,FIN033,validate,23,12.3,Complete
-ACT0119,FIN023,document,13,19.7,Proposed
-ACT0120,FIN008,automate,24,18.2,Proposed
-ACT0121,FIN029,document,39,4.3,Complete
-ACT0122,FIN005,document,5,13.9,Complete
-ACT0123,FIN023,validate,26,16.3,Proposed
-ACT0124,FIN025,document,37,8.7,Ready
-ACT0125,FIN036,document,31,8.6,Complete
-ACT0126,FIN032,monitor,6,9.7,Ready
-ACT0127,FIN011,document,16,14.1,In Review
-ACT0128,FIN035,escalate,5,10.5,Proposed
-ACT0129,FIN022,validate,12,2.0,Complete
-ACT0130,FIN035,automate,7,19.8,Proposed
-ACT0131,FIN036,automate,14,21.0,In Review
-ACT0132,FIN001,monitor,21,4.4,Proposed
-ACT0133,FIN036,monitor,11,16.7,In Review
-ACT0134,FIN025,prioritize,30,14.5,Proposed
-ACT0135,FIN001,prioritize,6,4.6,Proposed
-ACT0136,FIN002,document,26,7.7,In Review
-ACT0137,FIN023,automate,7,13.7,In Review
-ACT0138,FIN001,monitor,11,7.7,In Review
-ACT0139,FIN027,document,15,23.5,Complete
-ACT0140,FIN022,monitor,35,5.2,In Review
-ACT0141,FIN010,automate,37,16.3,In Review
-ACT0142,FIN023,document,18,6.7,Complete
-ACT0143,FIN025,document,40,21.6,Ready
-ACT0144,FIN006,prioritize,16,11.4,Proposed
-ACT0145,FIN020,automate,6,15.2,In Review
-ACT0146,FIN027,validate,26,3.9,Ready
-ACT0147,FIN002,monitor,18,11.1,Complete
-ACT0148,FIN032,escalate,4,17.0,Ready
-ACT0149,FIN007,document,33,10.0,Complete
-ACT0150,FIN005,monitor,10,6.3,Proposed
-ACT0151,FIN034,document,6,9.1,Proposed
-ACT0152,FIN014,escalate,22,12.8,Complete
-ACT0153,FIN005,escalate,35,8.0,Complete
-ACT0154,FIN018,automate,20,15.3,Ready
-ACT0155,FIN020,monitor,19,4.0,Proposed
-ACT0156,FIN028,escalate,38,6.8,Proposed
-ACT0157,FIN023,validate,36,3.8,In Review
-ACT0158,FIN009,monitor,36,5.6,In Review
-ACT0159,FIN002,escalate,39,8.9,Complete
-ACT0160,FIN024,escalate,42,22.2,Complete
-ACT0161,FIN006,automate,11,11.9,Proposed
-ACT0162,FIN012,automate,21,4.0,Complete
-ACT0163,FIN009,automate,26,4.2,In Review
-ACT0164,FIN025,monitor,4,22.7,In Review
-ACT0165,FIN009,validate,20,12.9,Proposed
-ACT0166,FIN013,document,17,19.2,Ready
-ACT0167,FIN016,monitor,12,16.2,In Review
-ACT0168,FIN020,automate,24,5.9,Ready
-ACT0169,FIN015,monitor,39,5.4,Proposed
-ACT0170,FIN031,validate,7,22.8,Proposed
-ACT0171,FIN009,validate,33,10.6,Complete
-ACT0172,FIN035,validate,25,3.3,In Review
-ACT0173,FIN031,escalate,22,13.0,Ready
-ACT0174,FIN026,document,25,7.9,In Review
-ACT0175,FIN001,monitor,15,12.6,Proposed
-ACT0176,FIN034,document,6,17.6,In Review
-ACT0177,FIN008,automate,40,9.1,Proposed
-ACT0178,FIN012,validate,11,5.4,Proposed
-ACT0179,FIN013,prioritize,12,14.2,In Review
-ACT0180,FIN031,document,16,21.7,Proposed
-ACT0181,FIN014,validate,42,13.7,In Review
-ACT0182,FIN011,automate,22,8.5,Proposed
-ACT0183,FIN019,monitor,6,22.1,Ready
-ACT0184,FIN001,automate,35,16.6,Proposed
-ACT0185,FIN003,monitor,31,6.9,In Review
-ACT0186,FIN018,escalate,16,4.0,Complete
-ACT0187,FIN014,escalate,40,17.0,Ready
-ACT0188,FIN007,automate,16,19.8,Proposed
-ACT0189,FIN031,escalate,15,13.1,Ready
-ACT0190,FIN023,monitor,44,5.8,In Review
-ACT0191,FIN014,prioritize,17,14.6,Complete
-ACT0192,FIN031,escalate,13,13.4,In Review
-ACT0193,FIN025,document,27,10.2,Proposed
-ACT0194,FIN032,escalate,25,14.8,Complete
-ACT0195,FIN013,validate,22,7.0,Proposed
-ACT0196,FIN018,monitor,27,22.7,Ready
-ACT0197,FIN036,automate,38,7.8,Ready
-ACT0198,FIN019,escalate,21,9.2,Ready
-ACT0199,FIN026,validate,43,9.4,Proposed
-ACT0200,FIN028,prioritize,4,11.6,Proposed
-ACT0201,FIN013,automate,17,3.3,Complete
-ACT0202,FIN029,monitor,2,9.6,Ready
-ACT0203,FIN019,monitor,15,2.1,Proposed
-ACT0204,FIN029,document,16,18.7,Proposed
-ACT0205,FIN030,automate,35,16.5,Ready
-ACT0206,FIN006,validate,13,5.3,Ready
-ACT0207,FIN028,monitor,21,3.2,Complete
-ACT0208,FIN032,document,43,12.8,Ready
-ACT0209,FIN022,escalate,15,11.4,Complete
-ACT0210,FIN021,validate,33,17.2,Proposed
-ACT0211,FIN003,escalate,15,6.4,In Review
-ACT0212,FIN031,monitor,10,11.1,Complete
-ACT0213,FIN029,prioritize,4,4.7,Proposed
-ACT0214,FIN036,document,39,4.5,Complete
-ACT0215,FIN020,prioritize,40,9.8,Ready
-ACT0216,FIN022,document,25,17.0,In Review
-ACT0217,FIN005,monitor,20,4.0,Proposed
-ACT0218,FIN032,prioritize,16,14.5,Complete
-ACT0219,FIN031,validate,15,11.8,In Review
-ACT0220,FIN001,escalate,17,22.4,Ready
+action_id,source,related_id,owner,action,impact,priority_score
+ACT-001,Workflow priority queue,AWM-026,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,155.7
+ACT-002,Workflow priority queue,AWM-011,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,118.9
+ACT-003,Workflow priority queue,AWM-004,Data Analytics,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,106.6
+ACT-004,Workflow priority queue,AWM-025,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,105.7
+ACT-005,Workflow priority queue,AWM-020,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,97.9
+ACT-006,Workflow priority queue,AWM-040,Data Analytics,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,91.2
+ACT-007,Workflow priority queue,AWM-041,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,87.8
+ACT-008,Workflow priority queue,AWM-002,Reporting Enablement,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,84.8
+ACT-009,Workflow priority queue,AWM-022,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,84.8
+ACT-010,Workflow priority queue,AWM-014,Reporting Enablement,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,83.9
+ACT-011,Workflow priority queue,AWM-019,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,78.9
+ACT-012,Workflow priority queue,AWM-010,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,77.2
+ACT-013,Workflow priority queue,AWM-021,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,74.6
+ACT-014,Workflow priority queue,AWM-030,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,70.0
+ACT-015,Workflow priority queue,AWM-005,Reporting Enablement,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,69.7
+ACT-016,Workflow priority queue,AWM-009,Technology,Escalate source control and refresh owner,Reduce exception exposure and improve operating review trust,66.6
+ACT-017,Production issue triage,INC-084,Technology,War room and source fix,Restore report reliability for affected stakeholders,102.8
+ACT-018,Production issue triage,INC-081,Data Analytics,War room and source fix,Restore report reliability for affected stakeholders,94.4
+ACT-019,Production issue triage,INC-061,Technology,War room and source fix,Restore report reliability for affected stakeholders,92.2
+ACT-020,Production issue triage,INC-017,Client Ops,War room and source fix,Restore report reliability for affected stakeholders,89.4
+ACT-021,Production issue triage,INC-006,Controls,War room and source fix,Restore report reliability for affected stakeholders,82.9
+ACT-022,Production issue triage,INC-063,Controls,War room and source fix,Restore report reliability for affected stakeholders,82.9
+ACT-023,Production issue triage,INC-028,Data Analytics,War room and source fix,Restore report reliability for affected stakeholders,79.1
+ACT-024,Production issue triage,INC-039,Controls,War room and source fix,Restore report reliability for affected stakeholders,78.8
+ACT-025,Production issue triage,INC-002,Controls,War room and source fix,Restore report reliability for affected stakeholders,75.5
+ACT-026,Production issue triage,INC-014,Data Analytics,War room and source fix,Restore report reliability for affected stakeholders,74.6
+ACT-027,Production issue triage,INC-040,Data Analytics,War room and source fix,Restore report reliability for affected stakeholders,72.4
+ACT-028,Production issue triage,INC-007,Technology,War room and source fix,Restore report reliability for affected stakeholders,72.1
+ACT-029,Automation queue,AUTO-030,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,115.2
+ACT-030,Automation queue,AUTO-019,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,106.2
+ACT-031,Automation queue,AUTO-033,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,105.9
+ACT-032,Automation queue,AUTO-028,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,105.0
+ACT-033,Automation queue,AUTO-041,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,101.6
+ACT-034,Automation queue,AUTO-024,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,101.5
+ACT-035,Automation queue,AUTO-022,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,100.9
+ACT-036,Automation queue,AUTO-004,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,100.2
+ACT-037,Automation queue,AUTO-015,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,96.1
+ACT-038,Automation queue,AUTO-017,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,93.8
+ACT-039,Automation queue,AUTO-025,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,92.8
+ACT-040,Automation queue,AUTO-035,Data Analytics,Pilot automation,Remove manual reporting effort and reduce recurring defects,92.3

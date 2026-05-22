@@ -1,0 +1,43 @@
+candidate_id,jira_key,workflow_id,workflow,business_line,manual_hours_week,repeatability_pct,data_readiness_pct,downstream_users,build_effort_hours,automation_fit,value_score,recommendation
+AUTO-030,AUTO-8130,AWM-030,Client reference data update,Client Reporting,136.4,86,79,369,33,0.44,115.2,Pilot automation
+AUTO-019,AUTO-8119,AWM-019,Mandate closure checklist,Client Reporting,136.0,64,82,102,37,0.59,106.2,Pilot automation
+AUTO-033,AUTO-8133,AWM-033,Alternatives subscription packet,Alternatives Operations,158.0,89,79,45,91,0.61,105.9,Pilot automation
+AUTO-028,AUTO-8128,AWM-028,Performance return restatement,Alternatives Operations,117.3,98,79,359,77,0.77,105.0,Pilot automation
+AUTO-041,AUTO-8141,AWM-041,Custody account mapping,Institutional Asset Management,150.8,76,78,257,167,0.85,101.6,Pilot automation
+AUTO-024,AUTO-8124,AWM-024,Cash movement approval,Managed Accounts,113.9,69,83,231,53,0.72,101.5,Pilot automation
+AUTO-022,AUTO-8122,AWM-022,Fee schedule configuration,Private Wealth,124.3,95,83,237,156,0.73,100.9,Pilot automation
+AUTO-004,AUTO-8104,AWM-004,Model portfolio rebalance approval,Alternatives Operations,113.5,70,79,452,58,0.41,100.2,Pilot automation
+AUTO-015,AUTO-8115,AWM-015,Portfolio reporting entitlement,Client Reporting,85.7,80,84,441,56,0.71,96.1,Pilot automation
+AUTO-017,AUTO-8117,AWM-017,New account onboarding,Private Wealth,131.9,70,78,69,82,0.53,93.8,Pilot automation
+AUTO-025,AUTO-8125,AWM-025,Investment guideline setup,Institutional Asset Management,90.0,91,83,339,110,0.59,92.8,Pilot automation
+AUTO-035,AUTO-8135,AWM-035,Fee schedule configuration,Institutional Asset Management,72.8,94,83,473,73,0.66,92.3,Pilot automation
+AUTO-008,AUTO-8108,AWM-008,Quarterly statement preparation,Private Wealth,97.7,76,79,268,56,0.49,92.0,Pilot automation
+AUTO-029,AUTO-8129,AWM-029,Advisor book transition,Institutional Asset Management,96.5,92,80,224,83,0.77,91.6,Pilot automation
+AUTO-006,AUTO-8106,AWM-006,Tax document exception review,Client Reporting,72.7,89,83,419,67,0.38,91.0,Pilot automation
+AUTO-011,AUTO-8111,AWM-011,Alternatives subscription packet,Client Reporting,77.5,94,79,414,81,0.86,87.7,Pilot automation
+AUTO-031,AUTO-8131,AWM-031,Fee schedule configuration,Client Reporting,71.4,65,88,241,111,0.42,81.7,Pilot automation
+AUTO-003,AUTO-8103,AWM-003,Cash movement approval,Institutional Asset Management,126.2,54,82,38,148,0.35,81.5,Pilot automation
+AUTO-013,AUTO-8113,AWM-013,Fee schedule configuration,Managed Accounts,71.9,75,84,373,120,0.49,81.0,Pilot automation
+AUTO-001,AUTO-8101,AWM-001,Investment guideline setup,Private Wealth,60.4,87,84,291,92,0.77,80.6,Pilot automation
+AUTO-009,AUTO-8109,AWM-009,Alternatives subscription packet,Alternatives Operations,49.4,91,93,363,170,0.53,79.7,Pilot automation
+AUTO-016,AUTO-8116,AWM-016,Managed account restriction update,Institutional Asset Management,103.5,78,78,180,173,0.87,79.5,Pilot automation
+AUTO-010,AUTO-8110,AWM-010,Model portfolio rebalance approval,Institutional Asset Management,67.3,88,78,253,79,0.72,79.0,Pilot automation
+AUTO-026,AUTO-8126,AWM-026,Fee schedule configuration,Managed Accounts,55.1,59,83,388,39,0.66,79.0,Pilot automation
+AUTO-040,AUTO-8140,AWM-040,Client reference data update,Alternatives Operations,55.9,95,79,348,79,0.37,78.1,Pilot automation
+AUTO-032,AUTO-8132,AWM-032,Client reference data update,Client Reporting,49.6,92,79,464,71,0.65,77.3,Size for backlog
+AUTO-014,AUTO-8114,AWM-014,Quarterly statement preparation,Alternatives Operations,63.8,84,84,442,172,0.35,75.1,Size for backlog
+AUTO-005,AUTO-8105,AWM-005,Managed account restriction update,Client Reporting,64.4,89,79,298,138,0.66,72.8,Size for backlog
+AUTO-007,AUTO-8107,AWM-007,Alternatives subscription packet,Private Wealth,53.4,89,83,369,157,0.56,72.3,Size for backlog
+AUTO-020,AUTO-8120,AWM-020,Tax document exception review,Managed Accounts,48.3,80,87,167,134,0.65,70.6,Size for backlog
+AUTO-023,AUTO-8123,AWM-023,Mandate closure checklist,Institutional Asset Management,64.9,65,84,333,160,0.41,70.6,Size for backlog
+AUTO-038,AUTO-8138,AWM-038,Mandate closure checklist,Alternatives Operations,53.2,59,83,376,145,0.51,66.4,Size for backlog
+AUTO-039,AUTO-8139,AWM-039,Quarterly statement preparation,Institutional Asset Management,66.3,83,82,107,180,0.67,66.0,Size for backlog
+AUTO-042,AUTO-8142,AWM-042,Alternatives subscription packet,Institutional Asset Management,26.6,66,89,235,91,0.77,65.3,Size for backlog
+AUTO-002,AUTO-8102,AWM-002,Cash movement approval,Private Wealth,47.2,78,80,450,150,0.69,64.3,Size for backlog
+AUTO-027,AUTO-8127,AWM-027,Portfolio reporting entitlement,Managed Accounts,57.8,65,78,456,160,0.86,64.2,Size for backlog
+AUTO-012,AUTO-8112,AWM-012,Advisor book transition,Client Reporting,47.7,57,84,369,144,0.41,63.8,Size for backlog
+AUTO-034,AUTO-8134,AWM-034,Client reporting package QA,Client Reporting,37.6,58,80,195,59,0.47,60.5,Size for backlog
+AUTO-036,AUTO-8136,AWM-036,New account onboarding,Client Reporting,40.0,64,80,398,142,0.85,58.1,Size for backlog
+AUTO-021,AUTO-8121,AWM-021,Fee schedule configuration,Alternatives Operations,49.9,65,84,29,139,0.48,51.9,Size for backlog
+AUTO-037,AUTO-8137,AWM-037,Advisor book transition,Alternatives Operations,22.6,74,79,346,166,0.47,49.5,Size for backlog
+AUTO-018,AUTO-8118,AWM-018,Fee schedule configuration,Private Wealth,31.8,54,84,36,84,0.78,49.1,Size for backlog

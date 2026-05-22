@@ -1,26 +1,43 @@
-entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
-FIN009,Finance operations workflow 9,Watch,93.53,51.3,79.6,773308
-FIN001,Finance operations workflow 1,Growth,90.55,49.3,79.5,747389
-FIN013,Finance operations workflow 13,Strategic,88.20,49.3,78.7,711057
-FIN020,Finance operations workflow 20,Strategic,87.94,51.8,79.4,688875
-FIN028,Finance operations workflow 28,Growth,85.44,50.7,80.3,668005
-FIN005,Finance operations workflow 5,Watch,85.31,55.7,80.0,621317
-FIN031,Finance operations workflow 31,Core,84.92,54.5,82.2,636020
-FIN033,Finance operations workflow 33,Growth,84.16,53.9,80.3,622325
-FIN011,Finance operations workflow 11,Core,83.25,50.9,81.5,640603
-FIN025,Finance operations workflow 25,Watch,82.88,51.9,81.7,627450
-FIN010,Finance operations workflow 10,Growth,81.90,53.7,77.0,577471
-FIN036,Finance operations workflow 36,Strategic,81.64,50.6,80.8,618104
-FIN030,Finance operations workflow 30,Core,81.63,54.8,79.0,572999
-FIN016,Finance operations workflow 16,Watch,81.33,52.5,81.0,597139
-FIN018,Finance operations workflow 18,Strategic,80.87,53.5,82.1,587533
-FIN019,Finance operations workflow 19,Core,80.26,52.8,81.6,583288
-FIN017,Finance operations workflow 17,Core,79.99,52.0,80.3,580320
-FIN032,Finance operations workflow 32,Watch,78.62,50.4,80.6,576408
-FIN022,Finance operations workflow 22,Watch,78.61,50.7,81.7,578319
-FIN002,Finance operations workflow 2,Strategic,78.43,51.0,82.2,575695
-FIN023,Finance operations workflow 23,Growth,77.15,52.1,80.1,539032
-FIN026,Finance operations workflow 26,Growth,77.06,48.6,79.9,566950
-FIN007,Finance operations workflow 7,Growth,76.83,49.9,80.4,554491
-FIN004,Finance operations workflow 4,Strategic,76.16,48.6,80.5,556708
-FIN012,Finance operations workflow 12,Core,75.89,48.5,80.9,555729
+rank,workflow_id,workflow,business_line,region,owner,risk_score,sla_rate,exception_rate,weekly_manual_hours,incident_count,quality_check_failures,open_requests,next_action
+1,AWM-026,Fee schedule configuration,Managed Accounts,APAC,Technology,155.7,0.9122,0.0509,55.1,12,2,1,Escalate source control and refresh owner
+2,AWM-011,Alternatives subscription packet,Client Reporting,APAC,Technology,118.9,0.9167,0.0694,77.5,10,3,1,Escalate source control and refresh owner
+3,AWM-004,Model portfolio rebalance approval,Alternatives Operations,Americas,Data Analytics,106.6,0.9106,0.0663,113.5,5,3,4,Escalate source control and refresh owner
+4,AWM-025,Investment guideline setup,Institutional Asset Management,Americas,Technology,105.7,0.9204,0.0591,90.0,9,2,2,Escalate source control and refresh owner
+5,AWM-020,Tax document exception review,Managed Accounts,APAC,Technology,97.9,0.917,0.0468,48.3,7,1,0,Escalate source control and refresh owner
+6,AWM-040,Client reference data update,Alternatives Operations,APAC,Data Analytics,91.2,0.9241,0.0605,55.9,6,3,3,Escalate source control and refresh owner
+7,AWM-041,Custody account mapping,Institutional Asset Management,APAC,Technology,87.8,0.9159,0.0666,150.8,4,3,1,Escalate source control and refresh owner
+8,AWM-002,Cash movement approval,Private Wealth,Americas,Reporting Enablement,84.8,0.9275,0.0743,47.2,8,3,1,Escalate source control and refresh owner
+9,AWM-022,Fee schedule configuration,Private Wealth,EMEA,Technology,84.8,0.9294,0.0547,124.3,4,2,3,Escalate source control and refresh owner
+10,AWM-014,Quarterly statement preparation,Alternatives Operations,Americas,Reporting Enablement,83.9,0.9337,0.079,63.8,5,2,2,Escalate source control and refresh owner
+11,AWM-019,Mandate closure checklist,Client Reporting,Americas,Technology,78.9,0.9075,0.0587,136.0,3,2,4,Escalate source control and refresh owner
+12,AWM-010,Model portfolio rebalance approval,Institutional Asset Management,APAC,Technology,77.2,0.9006,0.0534,67.3,3,3,1,Escalate source control and refresh owner
+13,AWM-021,Fee schedule configuration,Alternatives Operations,Americas,Technology,74.6,0.9243,0.0458,49.9,4,2,1,Escalate source control and refresh owner
+14,AWM-030,Client reference data update,Client Reporting,EMEA,Technology,70.0,0.9112,0.0739,136.4,2,3,1,Escalate source control and refresh owner
+15,AWM-005,Managed account restriction update,Client Reporting,EMEA,Reporting Enablement,69.7,0.9082,0.0647,64.4,3,3,0,Escalate source control and refresh owner
+16,AWM-009,Alternatives subscription packet,Alternatives Operations,Americas,Technology,66.6,0.9333,0.0602,49.4,4,0,2,Escalate source control and refresh owner
+17,AWM-003,Cash movement approval,Institutional Asset Management,EMEA,Controls,61.6,0.9105,0.0845,126.2,0,2,2,Escalate source control and refresh owner
+18,AWM-028,Performance return restatement,Alternatives Operations,EMEA,Controls,60.4,0.9138,0.0875,117.3,0,3,2,Escalate source control and refresh owner
+19,AWM-016,Managed account restriction update,Institutional Asset Management,APAC,Controls,59.6,0.9053,0.0717,103.5,0,3,2,Escalate source control and refresh owner
+20,AWM-027,Portfolio reporting entitlement,Managed Accounts,EMEA,Client Ops,59.4,0.9053,0.0519,57.8,0,3,2,Escalate source control and refresh owner
+21,AWM-037,Advisor book transition,Alternatives Operations,EMEA,Reporting Enablement,58.6,0.9032,0.0669,22.6,0,3,2,Escalate source control and refresh owner
+22,AWM-033,Alternatives subscription packet,Alternatives Operations,EMEA,Client Ops,58.1,0.9173,0.0862,158.0,0,3,3,Escalate source control and refresh owner
+23,AWM-013,Fee schedule configuration,Managed Accounts,EMEA,Client Ops,56.6,0.9217,0.0737,71.9,1,2,2,Escalate source control and refresh owner
+24,AWM-032,Client reference data update,Client Reporting,Americas,Data Analytics,55.2,0.9103,0.0579,49.6,0,3,1,Escalate source control and refresh owner
+25,AWM-017,New account onboarding,Private Wealth,EMEA,Reporting Enablement,53.9,0.9072,0.0485,131.9,0,3,1,Escalate source control and refresh owner
+26,AWM-008,Quarterly statement preparation,Private Wealth,APAC,Data Analytics,53.4,0.9187,0.0683,97.7,0,3,4,Escalate source control and refresh owner
+27,AWM-034,Client reporting package QA,Client Reporting,APAC,Data Analytics,51.5,0.9304,0.0613,37.6,0,3,6,Escalate source control and refresh owner
+28,AWM-007,Alternatives subscription packet,Private Wealth,EMEA,Technology,51.3,0.9147,0.0604,53.4,0,2,0,Escalate source control and refresh owner
+29,AWM-029,Advisor book transition,Institutional Asset Management,EMEA,Client Ops,50.4,0.9334,0.0544,96.5,0,3,3,Escalate source control and refresh owner
+30,AWM-018,Fee schedule configuration,Private Wealth,APAC,Technology,49.7,0.9305,0.0828,31.8,0,2,3,Escalate source control and refresh owner
+31,AWM-023,Mandate closure checklist,Institutional Asset Management,EMEA,Controls,49.5,0.9289,0.0693,64.9,0,2,2,Escalate source control and refresh owner
+32,AWM-036,New account onboarding,Client Reporting,EMEA,Client Ops,49.3,0.926,0.0613,40.0,0,3,3,Escalate source control and refresh owner
+33,AWM-039,Quarterly statement preparation,Institutional Asset Management,APAC,Technology,49.3,0.9113,0.0481,66.3,0,2,1,Escalate source control and refresh owner
+34,AWM-006,Tax document exception review,Client Reporting,EMEA,Client Ops,49.2,0.9155,0.0559,72.7,0,2,2,Escalate source control and refresh owner
+35,AWM-015,Portfolio reporting entitlement,Client Reporting,Americas,Technology,49.2,0.9212,0.0761,85.7,0,2,0,Escalate source control and refresh owner
+36,AWM-001,Investment guideline setup,Private Wealth,APAC,Client Ops,49.0,0.9282,0.0779,60.4,0,2,1,Escalate source control and refresh owner
+37,AWM-024,Cash movement approval,Managed Accounts,APAC,Data Analytics,49.0,0.9164,0.0486,113.9,0,2,1,Escalate source control and refresh owner
+38,AWM-035,Fee schedule configuration,Institutional Asset Management,EMEA,Reporting Enablement,47.5,0.9206,0.059,72.8,0,2,1,Escalate source control and refresh owner
+39,AWM-038,Mandate closure checklist,Alternatives Operations,Americas,Technology,47.2,0.9185,0.0472,53.2,0,2,2,Escalate source control and refresh owner
+40,AWM-031,Fee schedule configuration,Client Reporting,Americas,Reporting Enablement,46.5,0.9288,0.0732,71.4,0,1,2,Escalate source control and refresh owner
+41,AWM-012,Advisor book transition,Client Reporting,EMEA,Controls,45.1,0.9336,0.078,47.7,0,2,0,Escalate source control and refresh owner
+42,AWM-042,Alternatives subscription packet,Institutional Asset Management,Americas,Technology,42.7,0.9291,0.0577,26.6,0,1,2,Escalate source control and refresh owner

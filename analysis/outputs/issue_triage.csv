@@ -1,0 +1,91 @@
+incident_id,jira_key,opened_date,severity,status,root_cause,asset_id,workflow_id,impacted_users,hours_open,owner,workflow,business_line,triage_score,recommended_action
+INC-084,BI-3184,2026-04-18,P1,In review,Late upstream load,RPT-018,AWM-040,240,96,Technology,Client reference data update,Alternatives Operations,102.8,War room and source fix
+INC-081,BI-3181,2026-03-21,P1,In review,Metric definition gap,RPT-004,AWM-004,60,74,Data Analytics,Model portfolio rebalance approval,Alternatives Operations,94.4,War room and source fix
+INC-061,BI-3161,2026-03-20,P1,In review,Metric definition gap,RPT-015,AWM-026,832,44,Technology,Fee schedule configuration,Managed Accounts,92.2,War room and source fix
+INC-017,BI-3117,2026-04-03,P1,Resolved,Source access,RPT-002,AWM-041,504,28,Client Ops,Custody account mapping,Institutional Asset Management,89.4,War room and source fix
+INC-006,BI-3106,2026-04-15,P1,Resolved,Metric definition gap,RPT-010,AWM-020,790,24,Controls,Tax document exception review,Managed Accounts,82.9,War room and source fix
+INC-063,BI-3163,2026-04-16,P1,Resolved,Late upstream load,RPT-001,AWM-011,578,3,Controls,Alternatives subscription packet,Client Reporting,82.9,War room and source fix
+INC-028,BI-3128,2026-05-03,P2,In review,Source access,RPT-015,AWM-026,229,94,Data Analytics,Fee schedule configuration,Managed Accounts,79.1,War room and source fix
+INC-039,BI-3139,2026-03-06,P1,Resolved,Late upstream load,RPT-019,AWM-022,570,1,Controls,Fee schedule configuration,Private Wealth,78.8,War room and source fix
+INC-002,BI-3102,2026-03-14,P2,Open,Metric definition gap,RPT-006,AWM-026,310,69,Controls,Fee schedule configuration,Managed Accounts,75.5,War room and source fix
+INC-014,BI-3114,2026-03-22,P2,In review,Late upstream load,RPT-005,AWM-019,96,81,Data Analytics,Mandate closure checklist,Client Reporting,74.6,War room and source fix
+INC-040,BI-3140,2026-03-17,P2,Resolved,Data defect,RPT-012,AWM-010,399,42,Data Analytics,Model portfolio rebalance approval,Institutional Asset Management,72.4,War room and source fix
+INC-007,BI-3107,2026-03-09,P2,In review,Source access,RPT-019,AWM-022,380,54,Technology,Fee schedule configuration,Private Wealth,72.1,War room and source fix
+INC-078,BI-3178,2026-03-25,P2,Open,Metric definition gap,RPT-008,AWM-014,93,71,Controls,Quarterly statement preparation,Alternatives Operations,71.7,Owner review today
+INC-068,BI-3168,2026-03-05,P2,In review,Refresh failure,RPT-003,AWM-021,262,56,Controls,Fee schedule configuration,Alternatives Operations,71.3,Owner review today
+INC-019,BI-3119,2026-04-20,P2,Resolved,Metric definition gap,RPT-004,AWM-004,193,43,Reporting Enablement,Model portfolio rebalance approval,Alternatives Operations,70.0,Owner review today
+INC-051,BI-3151,2026-04-06,P2,Open,Source access,RPT-022,AWM-002,196,42,Controls,Cash movement approval,Private Wealth,69.8,Owner review today
+INC-060,BI-3160,2026-03-15,P2,Resolved,Refresh failure,RPT-001,AWM-011,400,29,Reporting Enablement,Alternatives subscription packet,Client Reporting,68.8,Owner review today
+INC-062,BI-3162,2026-03-07,P3,In review,Data defect,RPT-004,AWM-004,307,86,Controls,Model portfolio rebalance approval,Alternatives Operations,68.7,Owner review today
+INC-025,BI-3125,2026-03-30,P2,In review,Source access,RPT-003,AWM-021,230,48,Controls,Fee schedule configuration,Alternatives Operations,68.6,Owner review today
+INC-020,BI-3120,2026-04-13,P3,Open,Data defect,RPT-018,AWM-040,209,91,Reporting Enablement,Client reference data update,Alternatives Operations,67.3,Owner review today
+INC-090,BI-3190,2026-05-01,P2,Resolved,Source access,RPT-009,AWM-025,206,45,Reporting Enablement,Investment guideline setup,Institutional Asset Management,67.3,Owner review today
+INC-058,BI-3158,2026-03-16,P2,In review,Refresh failure,RPT-008,AWM-014,53,62,Client Ops,Quarterly statement preparation,Alternatives Operations,67.1,Owner review today
+INC-079,BI-3179,2026-04-30,P2,Resolved,Metric definition gap,RPT-001,AWM-011,407,22,Data Analytics,Alternatives subscription packet,Client Reporting,66.9,Owner review today
+INC-083,BI-3183,2026-03-04,P2,Resolved,Source access,RPT-019,AWM-022,397,34,Client Ops,Fee schedule configuration,Private Wealth,66.7,Owner review today
+INC-071,BI-3171,2026-04-05,P2,Resolved,Late upstream load,RPT-002,AWM-041,381,22,Client Ops,Custody account mapping,Institutional Asset Management,66.6,Owner review today
+INC-046,BI-3146,2026-04-10,P2,In review,Refresh failure,RPT-006,AWM-026,42,63,Reporting Enablement,Fee schedule configuration,Managed Accounts,66.5,Owner review today
+INC-026,BI-3126,2026-03-07,P3,In review,Data defect,RPT-008,AWM-014,405,92,Controls,Quarterly statement preparation,Alternatives Operations,66.2,Owner review today
+INC-077,BI-3177,2026-04-05,P2,Resolved,Source access,RPT-001,AWM-011,156,32,Data Analytics,Alternatives subscription packet,Client Reporting,66.1,Owner review today
+INC-011,BI-3111,2026-03-04,P2,In review,Metric definition gap,RPT-015,AWM-026,204,36,Data Analytics,Fee schedule configuration,Managed Accounts,64.8,Owner review today
+INC-035,BI-3135,2026-03-11,P2,In review,Data defect,RPT-021,AWM-009,255,58,Data Analytics,Alternatives subscription packet,Alternatives Operations,64.7,Owner review today
+INC-027,BI-3127,2026-04-04,P2,Resolved,Source access,RPT-006,AWM-026,107,43,Data Analytics,Fee schedule configuration,Managed Accounts,64.3,Owner review today
+INC-057,BI-3157,2026-03-15,P2,In review,Refresh failure,RPT-014,AWM-020,215,46,Client Ops,Tax document exception review,Managed Accounts,64.3,Owner review today
+INC-003,BI-3103,2026-03-10,P2,Resolved,Metric definition gap,RPT-006,AWM-026,200,28,Data Analytics,Fee schedule configuration,Managed Accounts,62.4,Owner review today
+INC-064,BI-3164,2026-03-18,P2,Resolved,Refresh failure,RPT-015,AWM-026,308,21,Data Analytics,Fee schedule configuration,Managed Accounts,62.1,Owner review today
+INC-075,BI-3175,2026-03-28,P3,In review,Source access,RPT-022,AWM-002,227,66,Reporting Enablement,Cash movement approval,Private Wealth,62.1,Owner review today
+INC-052,BI-3152,2026-03-07,P2,In review,Data defect,RPT-008,AWM-014,272,22,Controls,Quarterly statement preparation,Alternatives Operations,61.9,Owner review today
+INC-016,BI-3116,2026-03-22,P2,Open,Refresh failure,RPT-015,AWM-026,122,32,Controls,Fee schedule configuration,Managed Accounts,61.7,Owner review today
+INC-009,BI-3109,2026-04-03,P2,Resolved,Data defect,RPT-005,AWM-019,366,17,Controls,Mandate closure checklist,Client Reporting,61.6,Owner review today
+INC-056,BI-3156,2026-03-06,P2,Resolved,Refresh failure,RPT-004,AWM-004,146,16,Client Ops,Model portfolio rebalance approval,Alternatives Operations,61.4,Owner review today
+INC-021,BI-3121,2026-04-08,P2,Resolved,Data defect,RPT-010,AWM-020,200,32,Reporting Enablement,Tax document exception review,Managed Accounts,60.1,Owner review today
+INC-059,BI-3159,2026-04-12,P2,Open,Late upstream load,RPT-011,AWM-005,120,13,Controls,Managed account restriction update,Client Reporting,59.9,Owner review today
+INC-031,BI-3131,2026-04-17,P2,In review,Source access,RPT-015,AWM-026,241,16,Data Analytics,Fee schedule configuration,Managed Accounts,59.8,Owner review today
+INC-034,BI-3134,2026-04-06,P2,Resolved,Data defect,RPT-018,AWM-040,259,2,Technology,Client reference data update,Alternatives Operations,59.6,Owner review today
+INC-015,BI-3115,2026-03-15,P2,Resolved,Late upstream load,RPT-003,AWM-021,262,14,Data Analytics,Fee schedule configuration,Alternatives Operations,59.5,Owner review today
+INC-012,BI-3112,2026-04-01,P2,Open,Late upstream load,RPT-017,AWM-025,224,12,Controls,Investment guideline setup,Institutional Asset Management,58.4,Owner review today
+INC-047,BI-3147,2026-03-13,P3,In review,Metric definition gap,RPT-020,AWM-020,125,93,Data Analytics,Tax document exception review,Managed Accounts,58.4,Owner review today
+INC-032,BI-3132,2026-03-15,P3,In review,Late upstream load,RPT-018,AWM-040,417,43,Client Ops,Client reference data update,Alternatives Operations,57.9,Owner review today
+INC-010,BI-3110,2026-04-29,P3,In review,Source access,RPT-004,AWM-004,221,51,Data Analytics,Model portfolio rebalance approval,Alternatives Operations,57.8,Owner review today
+INC-022,BI-3122,2026-04-27,P3,In review,Source access,RPT-022,AWM-002,164,55,Client Ops,Cash movement approval,Private Wealth,57.8,Owner review today
+INC-024,BI-3124,2026-03-29,P3,Open,Late upstream load,RPT-018,AWM-040,58,68,Technology,Client reference data update,Alternatives Operations,57.6,Owner review today
+INC-082,BI-3182,2026-04-26,P3,Resolved,Metric definition gap,RPT-022,AWM-002,380,42,Reporting Enablement,Cash movement approval,Private Wealth,57.2,Owner review today
+INC-018,BI-3118,2026-04-20,P2,Resolved,Metric definition gap,RPT-012,AWM-010,112,3,Reporting Enablement,Model portfolio rebalance approval,Institutional Asset Management,56.8,Owner review today
+INC-069,BI-3169,2026-03-18,P2,Resolved,Data defect,RPT-017,AWM-025,285,3,Controls,Investment guideline setup,Institutional Asset Management,56.8,Owner review today
+INC-072,BI-3172,2026-04-30,P2,Resolved,Data defect,RPT-009,AWM-025,59,22,Controls,Investment guideline setup,Institutional Asset Management,56.2,Owner review today
+INC-033,BI-3133,2026-04-30,P3,Resolved,Late upstream load,RPT-001,AWM-011,252,42,Client Ops,Alternatives subscription packet,Client Reporting,55.7,Owner review today
+INC-004,BI-3104,2026-04-13,P2,In review,Data defect,RPT-013,AWM-030,8,33,Data Analytics,Client reference data update,Client Reporting,55.4,Owner review today
+INC-067,BI-3167,2026-04-16,P3,Open,Refresh failure,RPT-001,AWM-011,358,36,Technology,Alternatives subscription packet,Client Reporting,55.3,Owner review today
+INC-038,BI-3138,2026-03-23,P3,Resolved,Metric definition gap,RPT-013,AWM-030,317,36,Controls,Client reference data update,Client Reporting,54.9,Owner review today
+INC-055,BI-3155,2026-04-09,P2,Resolved,Data defect,RPT-021,AWM-009,237,22,Client Ops,Alternatives subscription packet,Alternatives Operations,54.4,Owner review today
+INC-076,BI-3176,2026-03-07,P3,Resolved,Refresh failure,RPT-005,AWM-019,257,48,Controls,Mandate closure checklist,Client Reporting,54.0,Owner review today
+INC-043,BI-3143,2026-03-16,P2,Resolved,Data defect,RPT-010,AWM-020,53,27,Data Analytics,Tax document exception review,Managed Accounts,53.8,Owner review today
+INC-087,BI-3187,2026-03-19,P3,Resolved,Metric definition gap,RPT-002,AWM-041,392,27,Data Analytics,Custody account mapping,Institutional Asset Management,53.2,Owner review today
+INC-054,BI-3154,2026-03-16,P3,Resolved,Source access,RPT-007,AWM-011,188,36,Reporting Enablement,Alternatives subscription packet,Client Reporting,53.0,Owner review today
+INC-041,BI-3141,2026-04-22,P3,In review,Source access,RPT-002,AWM-041,46,54,Controls,Custody account mapping,Institutional Asset Management,52.8,Owner review today
+INC-023,BI-3123,2026-04-29,P3,Resolved,Metric definition gap,RPT-007,AWM-011,94,43,Technology,Alternatives subscription packet,Client Reporting,52.4,Owner review today
+INC-085,BI-3185,2026-04-10,P3,Resolved,Source access,RPT-022,AWM-002,400,24,Controls,Cash movement approval,Private Wealth,52.4,Owner review today
+INC-048,BI-3148,2026-03-25,P3,Resolved,Late upstream load,RPT-009,AWM-025,391,35,Client Ops,Investment guideline setup,Institutional Asset Management,51.9,Track in BI queue
+INC-045,BI-3145,2026-04-18,P3,Resolved,Metric definition gap,RPT-022,AWM-002,279,24,Client Ops,Cash movement approval,Private Wealth,51.1,Track in BI queue
+INC-080,BI-3180,2026-03-27,P3,Resolved,Metric definition gap,RPT-006,AWM-026,253,35,Technology,Fee schedule configuration,Managed Accounts,50.3,Track in BI queue
+INC-074,BI-3174,2026-04-04,P3,Resolved,Refresh failure,RPT-008,AWM-014,239,34,Technology,Quarterly statement preparation,Alternatives Operations,49.8,Track in BI queue
+INC-030,BI-3130,2026-03-12,P3,Resolved,Metric definition gap,RPT-022,AWM-002,306,17,Data Analytics,Cash movement approval,Private Wealth,49.4,Track in BI queue
+INC-008,BI-3108,2026-03-13,P3,Resolved,Late upstream load,RPT-011,AWM-005,377,13,Controls,Managed account restriction update,Client Reporting,49.1,Track in BI queue
+INC-049,BI-3149,2026-04-01,P3,Resolved,Data defect,RPT-011,AWM-005,341,13,Client Ops,Managed account restriction update,Client Reporting,48.7,Track in BI queue
+INC-036,BI-3136,2026-04-14,P3,Resolved,Late upstream load,RPT-007,AWM-011,28,43,Data Analytics,Alternatives subscription packet,Client Reporting,47.9,Track in BI queue
+INC-086,BI-3186,2026-03-05,P3,Resolved,Refresh failure,RPT-014,AWM-020,137,46,Controls,Tax document exception review,Managed Accounts,47.6,Track in BI queue
+INC-070,BI-3170,2026-03-16,P3,In review,Metric definition gap,RPT-020,AWM-020,378,31,Technology,Tax document exception review,Managed Accounts,47.1,Track in BI queue
+INC-088,BI-3188,2026-04-10,P3,Resolved,Refresh failure,RPT-017,AWM-025,331,20,Technology,Investment guideline setup,Institutional Asset Management,47.1,Track in BI queue
+INC-013,BI-3113,2026-04-11,P3,In review,Late upstream load,RPT-015,AWM-026,151,28,Controls,Fee schedule configuration,Managed Accounts,46.4,Track in BI queue
+INC-050,BI-3150,2026-03-24,P3,Open,Metric definition gap,RPT-019,AWM-022,400,14,Data Analytics,Fee schedule configuration,Private Wealth,46.1,Track in BI queue
+INC-065,BI-3165,2026-05-02,P3,Resolved,Data defect,RPT-012,AWM-010,216,5,Data Analytics,Model portfolio rebalance approval,Institutional Asset Management,44.8,Track in BI queue
+INC-089,BI-3189,2026-03-04,P3,Resolved,Source access,RPT-017,AWM-025,119,24,Technology,Investment guideline setup,Institutional Asset Management,44.4,Track in BI queue
+INC-029,BI-3129,2026-03-30,P3,In review,Source access,RPT-016,AWM-013,88,25,Client Ops,Fee schedule configuration,Managed Accounts,43.6,Track in BI queue
+INC-053,BI-3153,2026-04-12,P3,Resolved,Source access,RPT-007,AWM-011,53,15,Technology,Alternatives subscription packet,Client Reporting,42.4,Track in BI queue
+INC-073,BI-3173,2026-04-20,P3,In review,Data defect,RPT-017,AWM-025,45,25,Data Analytics,Investment guideline setup,Institutional Asset Management,41.1,Track in BI queue
+INC-005,BI-3105,2026-03-16,P3,In review,Metric definition gap,RPT-022,AWM-002,48,10,Controls,Cash movement approval,Private Wealth,40.6,Track in BI queue
+INC-037,BI-3137,2026-03-16,P3,Resolved,Source access,RPT-003,AWM-021,37,25,Reporting Enablement,Fee schedule configuration,Alternatives Operations,40.4,Track in BI queue
+INC-044,BI-3144,2026-04-05,P3,Resolved,Source access,RPT-017,AWM-025,169,1,Data Analytics,Investment guideline setup,Institutional Asset Management,39.3,Track in BI queue
+INC-066,BI-3166,2026-03-31,P3,In review,Source access,RPT-021,AWM-009,17,54,Client Ops,Alternatives subscription packet,Alternatives Operations,38.6,Track in BI queue
+INC-001,BI-3101,2026-04-05,P3,Resolved,Metric definition gap,RPT-018,AWM-040,14,5,Reporting Enablement,Client reference data update,Alternatives Operations,34.7,Track in BI queue
+INC-042,BI-3142,2026-04-16,P3,Open,Refresh failure,RPT-021,AWM-009,211,5,Data Analytics,Alternatives subscription packet,Alternatives Operations,34.2,Track in BI queue
